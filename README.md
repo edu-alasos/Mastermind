@@ -1,5 +1,10 @@
 # Mastermind 
 grupp: Samuel, Alan, Martin  
-20 november: Vi kollade igenom film och skriv ner plannering, vad vi ska ha med i koden och hur den ska fungera.  
-24 november: Vi började skriva koden. Vi skapade en lättare(1) och svårare(2) nivåer i spelet som slumpar talet annorlunda broednde på nivå. Samt användare kunde skriva in talet.  
-27 november: Koden var på Martins dator så kunde inte jobba riktigt men har ändå skrivit tabll på annan datorn. 
+
+20 november: Vi kollade igenom film och skrev ner planering, vad vi ska ha med i koden och hur den ska fungera. Vi skrev också vilka delar spelet måste innehålla, till exempel nivåer, input från användaren och hur feedbacken ska räknas ut
+
+24 november: Vi började skriva själva koden till spelet. Först skapade vi två svårighetsnivåer: en lättare nivå (1) och en svårare nivå (2), där spelet slumpar tal på olika sätt beroende på nivå. Vi gjorde också så att användaren kunde skriva in sin gissning.
+
+27 november: Idag gjorde vi funktionen tabell(gissningar) som skriver ut alla drag och feedback i Mastermind. Funktionen går från 12 till 1 och visar gissningen om den finns i dictionaryn.
+
+01 december: 
